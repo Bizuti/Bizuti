@@ -1,4 +1,4 @@
-### Olá! Eu sou o Bizuti 
+Bizuti 
 
 - 🔭 Programador Front-end
 - 💻 Estudando Javascript
