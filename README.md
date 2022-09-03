@@ -3,7 +3,7 @@ Bizuti
 - 🔭 Programador Front-end
 - 💻 Estudando Javascript
 - 📫 email: ebizuti@gmail.com
-- 📱 +55 (19) 99582-0562
+
    
 <div align="center">
   <a href="https://github.com/bizuti">
