@@ -1,7 +1,7 @@
 Bizuti 
 
-- 🔭 Programador Front-end
-- 💻 Estudando Javascript
+- 🔭 Programador Back-end
+- 💻 Estudando Java
 - 📫 email: ebizuti@gmail.com
 
    
