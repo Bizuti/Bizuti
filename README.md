@@ -1,7 +1,7 @@
 Bizuti 
 
--  Programador Back-end
--  Estudando Java
+-  Back-end developer
+-  Studying Java
 -  email: ebizuti@gmail.com
 
 
