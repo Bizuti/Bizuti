@@ -1,6 +1,6 @@
 Bizuti 
 
--  Studying Lua
+-  Studying Ruby on Rails
 -  email: ebizuti@gmail.com
 -  Linkedin: <a href=https://www.linkedin.com/in/enzo-bizuti-30ba7b239/>Enzo Bizuti <a/> 
 
